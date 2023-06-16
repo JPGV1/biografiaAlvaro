@@ -11,11 +11,8 @@ body {
   header {
     background-color: #333;
     color: #fff;
-<<<<<<< HEAD
     padding: 30px;
-=======
     padding: 25px;
->>>>>>> García
     text-align: center;
     margin-top: auto;
     margin-bottom: 40px;
@@ -77,24 +74,15 @@ body {
     inline-size: end;
   }
   .caja {
-<<<<<<< HEAD
-    background-color: #757272;
-    border: 1px solid #ccc;
-    border-radius: 20px;
-    padding: 25px;
-    margin: 20px;
-=======
     background-color: #796d6d;
     border: 1px solid #ccc;
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 20px;
->>>>>>> García
     
   }
 #inicio{
     text-align: center;
-<<<<<<< HEAD
     font-size: 25px;
     margin:120px;
     padding: 50px
@@ -103,7 +91,6 @@ body {
 span, active{
     color:rgb(94, 155, 104);
     font-size: "Arial", sans-serif; 
-=======
 
 }
   
@@ -111,7 +98,6 @@ span, active{
     color:rgb(125, 177, 157);
     font-size: "Arial", sans-serif; 
     text-align: center;
->>>>>>> García
 }
 .cajaGris{
     background-color: #504d4d;
@@ -129,12 +115,8 @@ span, active{
     float: center;
   }
   #inicioBiografia{
-<<<<<<< HEAD
     text-align: center;
     font-size: 25px;
     margin: 20px;
     padding: 20px
-=======
-      text-align: center;
->>>>>>> García
   }
